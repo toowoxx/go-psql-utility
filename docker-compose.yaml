@@ -1,0 +1,15 @@
+version: "3.7"
+
+services:
+  test:
+    build: .
+    volumes:
+      - .:/src
+      - /tmp/psql_utility_test:/tmp
+
+  postgres:
+    image: postgres:13
+    environment:
+      POSTGRES_USER: test
+      POSTGRES_PASSWORD: testpw
+      POSTGRES_DB: testdb

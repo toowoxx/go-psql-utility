@@ -1,0 +1,8 @@
+github.com/alessio/shellescape v1.4.1/go.mod h1:PZAiSCk0LJaZkiCSkPv8qIobYglO3FPpyFjDCtHLS30=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/toowoxx/go-lib-fs v1.2.0/go.mod h1:IdwOcsJSdJqyrwM2xyzjXs71lbwBn34DGT89sXb0xIY=
+github.com/toowoxx/go-lib-userspace-common v0.5.1 h1:4H970tTvZoAzT7CDT9KJTRV5TI0FfFPFeBL+WEUAce4=
+github.com/toowoxx/go-lib-userspace-common v0.5.1/go.mod h1:JGNhup5U3gJA85Qf+Hui2OXGqVFOSc4YXb9ConjSaZU=
+github.com/toowoxx/go-lib-userspace-common v0.6.1 h1:eKlKCNBBxJOv8qXZwpxLbHDpXZeAhx7GE6O1+tdgd04=
+github.com/toowoxx/go-lib-userspace-common v0.6.1/go.mod h1:JGNhup5U3gJA85Qf+Hui2OXGqVFOSc4YXb9ConjSaZU=
