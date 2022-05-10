@@ -1,4 +1,4 @@
 github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
 github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
-github.com/toowoxx/go-lib-userspace-common v0.6.3 h1:W6III3hHD9SsTrZ4uXRNco73u1Pv4dpb4f+PngO1k4s=
-github.com/toowoxx/go-lib-userspace-common v0.6.3/go.mod h1:sa5AC2QKglu3J7uFzOG4uiYf6kTqB1SDrz2p2WGpoMc=
+github.com/toowoxx/go-lib-userspace-common v0.8.0 h1:2nI2f67PlML3qAKmAqMvM/Bb4b0G0HjhV4K5Z8u1HIc=
+github.com/toowoxx/go-lib-userspace-common v0.8.0/go.mod h1:sa5AC2QKglu3J7uFzOG4uiYf6kTqB1SDrz2p2WGpoMc=
